@@ -1,6 +1,6 @@
 ---
 name: think-first
-description: Before planning or coding a task with a real design decision (data model, where authority lives, failure and retry behaviour, API contract, concurrency, security boundary), the user answers first: seal your approach, ask theirs, then compare and merge. Skip for mechanical work or when the user says "just do it".
+description: "Before planning or coding a task with a real design decision (data model, where authority lives, failure and retry behaviour, API contract, concurrency, security boundary), the user answers first: seal your approach, ask theirs, then compare and merge. Skip for mechanical work or when the user says \"just do it\"."
 ---
 
 # Think first
